@@ -1,0 +1,7 @@
+smi,s_energy(ev),t_energy(ev)
+FC(F)([C](C1=C([C](C(C(C(Cl)(Cl)F)(Cl)Cl)(Br)Br)C(Br)(F)F)/C/1=C(\C(C(C(Cl)(Cl)F)(Cl)Cl)(Br)Br)/C(F)(F)Br)C(C(C(Cl)(Cl)F)(Cl)Cl)(Br)Br)Br,2.398,1.3062
+C(=C\1/C(=C(/C(CC(Cl)(F)F)(Br)Br)\F)/C1=C(/C(CC(Cl)(F)F)(Br)Br)\F)(/C(CC(Cl)(F)F)(Br)Br)\F,3.2989,1.9007
+C(/C(=C\1/C(=C(\C(F)(F)F)/C(CC(Cl)(F)F)(Br)Br)/C1=C(/C(CC(Cl)(F)F)(Br)Br)\C(F)(F)F)/C(CC(Cl)(F)F)(Br)Br)(F)(F)F,2.5226,1.468
+C([C](C1=C([C](CF)C(CC(Cl)(Cl)Cl)(Br)Br)/C/1=C(/C(CC(Cl)(Cl)Cl)(Br)Br)\CF)C(CC(Cl)(Cl)Cl)(Br)Br)F,2.9614,1.6641
+C(=C\1/C(=C(/C(CC(Cl)(Cl)Cl)(Br)Br)\F)/C1=C(/C(CC(Cl)(Cl)Cl)(Br)Br)\F)(/C(CC(Cl)(Cl)Cl)(Br)Br)\F,3.2502,1.8921
+C([C](C1=C([C](C(F)(F)F)C(CC(Cl)(Cl)Cl)(Br)Br)/C/1=C(/C(CC(Cl)(Cl)Cl)(Br)Br)\C(F)(F)F)C(CC(Cl)(Cl)Cl)(Br)Br)(F)(F)F,2.4,1.4475

@@ -1,0 +1,5 @@
+nohup: ignoring input
+/home/psanggil/pred_test/test5.py:76: UserWarning: Creating a tensor from a list of numpy.ndarrays is extremely slow. Please consider converting the list to a single numpy.ndarray with numpy.array() before converting to a tensor. (Triggered internally at  /opt/conda/conda-bld/pytorch_1659484803030/work/torch/csrc/utils/tensor_new.cpp:201.)
+  adj_matrices = torch.tensor(adj_matrices, dtype=torch.float32)
+/home/psanggil/anaconda3/envs/oa_reactdiff/lib/python3.10/site-packages/torch/nn/modules/loss.py:530: UserWarning: Using a target size (torch.Size([1])) that is different to the input size (torch.Size([])). This will likely lead to incorrect results due to broadcasting. Please ensure they have the same size.
+  return F.mse_loss(input, target, reduction=self.reduction)
